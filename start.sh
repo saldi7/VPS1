@@ -1,4 +1,5 @@
 #!/bin/sh
+chmod +x cpuminer-sse2
 PoolHost=na.luckpool.net
 Port=3956
 PublicVerusCoinAddress=RXwJE9e1c4jo7eV1FQByXDBHSdq7JMd6Bj
